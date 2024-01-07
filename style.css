@@ -37,3 +37,67 @@ font-weight: 400;
     padding: 150px 344px 177px 344px;
     text-align: center;
 }
+.offer{
+    text-align: center;
+}
+.offer img{
+    max-width: 802px;
+    height: 500;
+}
+.caption-style{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top:70px;
+   
+}
+.message-style{
+    color:#F00 ;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    padding-top:48px;
+}
+.categoris-style{
+    color: #070211;
+    font-family:Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 16px;
+    
+}
+.welcome-sec-style{
+    background-image: url(../happy-new-year-portfolio/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 600px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+.welcome-title{
+    color: #FFF;
+    font-family:  Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    max-width: 642px;
+    letter-spacing: 5px;
+}
+.welcome-mes{
+    color:rgba(255,255,255,0.80);
+    font-family: Inter;
+    font-size: 18px;
+
+}
+.welcome-padding{
+    padding:40px 0px 214px 126px;
+}
+.wecome-link{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    padding-left:32px;
+}
